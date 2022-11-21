@@ -3,6 +3,13 @@ This is a Prefab intended to be used with ChilloutVR in either Worlds or Props.
 
 ![Screenshot of Prop](/CVRTutorial.png)
 
+## Usage/How to Upload
+1. Open "Prop" Scene
+2. Select "Tutorial Prop Prefab" Object
+3. Right Click and select "Unpack Prefab"
+4. Go to "CVR Asset Info" Component and Click "Detach asset unique identifier"
+5. Upload
+
 ## Dependencies
 - ChilloutVR CCK (https://developers.abinteractive.net/cck/setup/)
 
