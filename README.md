@@ -1,5 +1,5 @@
 # Chillout VR Tutorial Prop Prefab
-This is a Prefab to be used with ChilloutVR in either Worlds or Uploads.
+This is a Prefab intended to be used with ChilloutVR in either Worlds or Props.
 
 ## Dependencies
 - ChilloutVR CCK (https://developers.abinteractive.net/cck/setup/)
