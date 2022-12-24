@@ -429,10 +429,15 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tutorial Prop Prefab
       objectReference: {fileID: 0}
-    - target: {fileID: 1523183466334702378, guid: 0d6c7395e95d9494780c814f945368ad,
+    - target: {fileID: 1523183465978740076, guid: 0d6c7395e95d9494780c814f945368ad,
         type: 3}
-      propertyPath: m_Camera
-      value: 
-      objectReference: {fileID: 963194227}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1523183466018261630, guid: 0d6c7395e95d9494780c814f945368ad,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0d6c7395e95d9494780c814f945368ad, type: 3}
