@@ -155,7 +155,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Prop v1.0.2 | CVR 2022r170
+  m_Text: Prop v1.0.3 | CVR 2022r170p1
 --- !u!1 &6985152001146462836
 GameObject:
   m_ObjectHideFlags: 0
@@ -401,7 +401,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8490219843058413137}
   m_Layer: 5
-  m_Name: PropTitle
+  m_Name: PropTitleEnglish
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

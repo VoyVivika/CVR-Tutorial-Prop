@@ -369,6 +369,43 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2563903, guid: 0d6c7395e95d9494780c814f945368ad, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 198582382, guid: 0d6c7395e95d9494780c814f945368ad, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 408324693, guid: 0d6c7395e95d9494780c814f945368ad, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 594582689, guid: 0d6c7395e95d9494780c814f945368ad, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 714426680, guid: 0d6c7395e95d9494780c814f945368ad, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 735132567, guid: 0d6c7395e95d9494780c814f945368ad, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 1306252825, guid: 0d6c7395e95d9494780c814f945368ad, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2119398521, guid: 0d6c7395e95d9494780c814f945368ad, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 12668694940294557, guid: 0d6c7395e95d9494780c814f945368ad,
+        type: 3}
+      propertyPath: m_Text
+      value: by VoyVivika. Japanese Translation by Blake92
+      objectReference: {fileID: 0}
     - target: {fileID: 1523183465822329376, guid: 0d6c7395e95d9494780c814f945368ad,
         type: 3}
       propertyPath: m_RootOrder
@@ -428,6 +465,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Tutorial Prop Prefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 1523183466334702382, guid: 0d6c7395e95d9494780c814f945368ad,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171324338403173070, guid: 0d6c7395e95d9494780c814f945368ad,
+        type: 3}
+      propertyPath: m_Size.z
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087830471111670632, guid: 0d6c7395e95d9494780c814f945368ad,
+        type: 3}
+      propertyPath: m_Size.z
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0d6c7395e95d9494780c814f945368ad, type: 3}
