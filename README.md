@@ -1,4 +1,6 @@
 # Chillout VR Tutorial Prop Prefab
+⚠️This Project is Unmaintained⚠️
+⚠️if you would like to be the maintainer for this or would like your fork linked in here, please contact me via either X DMs (https://x.com/voyvivika) or via discord (my username is voyvivika)⚠️
 This is a Prefab intended to be used with ChilloutVR in either Worlds or Props.
 
 ![Screenshot of Prop](/CVRTutorial.png)
